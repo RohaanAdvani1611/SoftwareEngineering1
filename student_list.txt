@@ -1,0 +1,15 @@
+Name: Yash
+DOB: 01/01/01
+Roll No: 69
+Contact: 1234567890
+Email ID: yd@gmail.com
+Address: dubai
+Branch: comp
+
+Name: Anisole
+DOB: 01/01/02
+Roll No: 42
+Contact: 0987654321
+Email ID: anisoleop@yahoo.com
+Address: muscat
+Branch: comp
